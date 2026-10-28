@@ -29,7 +29,9 @@ listadas abaixo. Cada seleção deverá aparecer em um contianer com:
 -   Link para acessar a página de detalhes.
 
   
-![selecoes](image.png)
+
+<img src="image.png" alt="Seleções">
+
 ### Páginas de detalhes
 
 Crie uma página individual para cada uma das sete seleções. Cada página
