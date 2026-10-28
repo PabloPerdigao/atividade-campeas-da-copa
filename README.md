@@ -30,8 +30,7 @@ listadas abaixo. Cada seleção deverá aparecer em um contianer com:
 
   
 
-<img src="image.png" alt="Seleções">
-
+![selecoes](/tabela-selecoes.png)
 ### Páginas de detalhes
 
 Crie uma página individual para cada uma das sete seleções. Cada página
