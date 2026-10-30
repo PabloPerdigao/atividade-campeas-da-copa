@@ -27,9 +27,7 @@ listadas abaixo. Cada seleção deverá aparecer em um contianer com:
 -   Anos em que foi campeã;
 -   Breve descrição da trajetória;
 -   Link para acessar a página de detalhes.
-
   
-
 ![selecoes](/tabela-selecoes.png)
 ### Páginas de detalhes
 
@@ -65,7 +63,6 @@ A estrutura final deverá contemplar:
 -   `REGISTRO_APRENDIZAGEM.md` --- registro resumido das missões
     concluídas;
 
-
 ## 4. Desenvolvimento por missões
 
 Cada missão representa uma etapa do projeto. Conclua os requisitos da
@@ -86,11 +83,6 @@ Tarefas:
 -   Crie um `.gitignore` caso existam arquivos que devam ser ignorados.
 -   Registre a primeira versão do projeto e confira o histórico criado.
 
-**Pratique:** `git init`, `git status`, `git add`, `git commit` e
-`git log` .
-
-**Conclusão:** o projeto existe localmente e possui seu primeiro commit.
-
 ---------------------------------------------
 ### Missão 2 | Publicar o projeto no GitHub
 
@@ -106,12 +98,6 @@ Tarefas:
 
 Crie o repositório remoto sem gerar um README ou outros arquivos
 automaticamente, para evitar divergências entre os históricos iniciais.
-
-**Pratique:** `git remote add`, `git remote -v`, `git branch -M` e
-`git push -u`.
-
-**Conclusão:** o projeto está publicado e o repositório local está
-conectado ao remoto.
 
 ---------------------------------------------
 ### Missão 3 | Construir a página inicial
@@ -132,13 +118,6 @@ Tarefas:
     meio de um Pull Request.
 -   Após a aprovação, integre as alterações à `main` e atualize sua
     cópia local.
-
-**Pratique:** criação e troca de branches, `git status`, `git diff`,
-`git add`, `git commit`, `git push`, consulta ao histórico e Pull
-Requests.
-
-**Conclusão:** a página inicial foi integrada à `main`, contém as sete
-seleções e apresenta links para as páginas de detalhes planejadas.
 
 ---------------------------------------------
 ### Missão 4 | Criar as páginas de detalhes
@@ -172,13 +151,6 @@ Para cada seleção:
 -   Exclua a branch de trabalho após a integração, quando ela não for
     mais necessária.
 
-**Pratique:** criação e troca de branches, `git status`, `git diff`,
-`git add`, `git commit`, `git push`, `git fetch`, `git merge`,
-`git branch -d` e consulta às branches remotas.
-
-**Conclusão:** as sete páginas foram integradas à `main`, os links
-funcionam e cada página foi desenvolvida em sua própria branch.
-
 ---------------------------------------------
 ### Missão 5 | Revisar arquivos e consultar o histórico
 
@@ -195,12 +167,6 @@ Resolva as situações propostas pelo instrutor:
     antigos.
 3.  O instrutor solicita que você descubra em qual commit uma página foi
     adicionada e consulte as alterações registradas naquele commit.
-
-**Pratique:** `git restore --staged`, `git rm --cached`,
-`git status`, `git log` e `git show`.
-
-**Conclusão:** você consegue verificar o que está preparado, consultar o
-histórico e corrigir as situações sem descartar trabalho por engano.
 
 ---------------------------------------------
 ### Missão 6 | Interromper e retomar uma tarefa
@@ -225,13 +191,6 @@ Tarefas:
 -   Verifique se o trabalho foi recuperado corretamente e continue a
     implementação.
 
-**Pratique:** `git stash`, `git stash list`, `git stash apply`,
-`git stash pop`, `git switch` e `git status`.
-
-**Conclusão:** você consegue interromper a tarefa, realizar a correção
-urgente e retomar o trabalho. Explique a diferença entre
-`git stash apply` e `git stash pop`.
-
 ---------------------------------------------
 ### Missão 7 | Atualizar o trabalho com mudanças da equipe
 
@@ -251,13 +210,6 @@ Tarefas:
     quando estiverem prontas.
 -   Em um exemplo orientado, pratique também a atualização com
     `git pull`.
-
-**Pratique:** `git fetch`, `git status`, `git log`, `git diff`,
-`git merge`, `git pull` e `git push`.
-
-**Conclusão:** você consegue explicar a diferença entre buscar
-atualizações e integrá-las à branch atual, além de atualizar seu
-trabalho sem sobrescrever indevidamente as mudanças da equipe.
 
 ---------------------------------------------
 ### Missão 8 | Resolver um conflito
@@ -282,12 +234,6 @@ Tarefas:
 Se necessário, discuta com o instrutor quando seria apropriado cancelar
 uma tentativa de merge.
 
-**Pratique:** `git status`, `git diff`, `git add`, `git commit` e,
-quando fizer sentido, `git merge --abort`.
-
-**Conclusão:** o conflito foi resolvido e integrado. Você consegue
-explicar por que o Git não escolheu automaticamente uma das versões.
-
 ---------------------------------------------
 ### Missão 9 | Corrigir ou desfazer alterações
 
@@ -302,14 +248,6 @@ Resolva as duas situações, preparadas com orientação do instrutor:
 2.  **Commit já publicado em uma branch compartilhada:** identifique um
     commit de teste e desfaça seus efeitos sem reescrever o histórico
     compartilhado.
-
-**Pratique:** `git status`, `git log`, `git show`, `git restore`,
-`git revert` e `git push`.
-
-**Conclusão:** você consegue diferenciar o descarte de uma alteração
-local da criação de um novo commit que desfaz uma alteração já
-publicada.
-
 
 ---------------------------------------------
 ### Missão 10 | Revisar e finalizar o projeto
@@ -327,8 +265,6 @@ Tarefas:
 -   Confira o estado do repositório, o histórico e a sincronização com o
     remoto.
 
-**Pratique:** `git status`, `git branch`,
-`git remote -v`, `git fetch`, `git pull` e `git push`.
 
 **Conclusão:** o site está funcional, documentado e publicado no GitHub,
 e você consegue explicar como organizou e integrou as alterações
