@@ -19,7 +19,7 @@ funcionando e uma apresentação simples e consistente.
 ### Página inicial
 
 Crie uma página inicial chamada `index.html` que apresente as seleções
-listadas abaixo. Cada seleção deverá aparecer em um contianer com:
+listadas abaixo. Cada seleção deverá aparecer em um container com:
 
 -   Nome da seleção;
 -   Imagem ou bandeira representativa;
