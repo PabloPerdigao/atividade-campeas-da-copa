@@ -94,6 +94,7 @@ Tarefas:
 -   Confira a configuração da conexão.
 -   Publique o histórico inicial e confirme que os arquivos estão
     disponíveis no GitHub.
+- Dê acesso aos instrutores adicionando os como colaborados do repositório criado.
 
 Crie o repositório remoto sem gerar um README ou outros arquivos
 automaticamente, para evitar divergências entre os históricos iniciais.
