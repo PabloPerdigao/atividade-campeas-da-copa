@@ -80,7 +80,6 @@ Tarefas:
     trabalho.
 -   Inicialize um repositório Git local.
 -   Crie o `README.md` com o nome do projeto e uma breve descrição.
--   Crie um `.gitignore` caso existam arquivos que devam ser ignorados.
 -   Registre a primeira versão do projeto e confira o histórico criado.
 
 ---------------------------------------------
