@@ -18,7 +18,7 @@ funcionando e uma apresentação simples e consistente.
 
 ### Página inicial
 
-Crie uma página inicial chamada `index.html` que apresente as seleções
+Uma página inicial chamada `index.html` que apresente as seleções
 listadas abaixo. Cada seleção deverá aparecer em um container com:
 
 -   Nome da seleção;
@@ -31,7 +31,7 @@ listadas abaixo. Cada seleção deverá aparecer em um container com:
 ![selecoes](/tabela-selecoes.png)
 ### Páginas de detalhes
 
-Crie uma página individual para cada uma das sete seleções. Cada página
+Uma página individual para cada uma das sete seleções. Cada página
 deverá apresentar:
 
 -   Nome e imagem representativa da seleção;
@@ -47,7 +47,7 @@ conter as informações específicas da seleção correspondente.
 
 ## 3. Organização inicial do projeto
 
-O projeto deverá ser criado do zero. Criei inciie um repositório git local chamado `campeas-da-copa`, conecte no Github e deixe publico.
+O projeto deverá ser criado do zero. 
 
 Organize os arquivos de maneira que
 seja fácil localizar as páginas, os estilos, as imagens e a
@@ -106,7 +106,7 @@ automaticamente, para evitar divergências entre os históricos iniciais.
 Tarefas:
 
 -   Crie uma branch chamada `feature/pagina-inicial`.
--   Desenvolva a página `index.html` com os cartões de todas as seleções
+-   Desenvolva a página `index.html` com os cards de todas as seleções
     listadas nesta atividade.
 -   Inclua as informações exigidas para cada cartão e um link para a
     respectiva página de detalhes.
