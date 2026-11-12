@@ -151,25 +151,9 @@ Para cada seleção:
 -   Exclua a branch de trabalho após a integração, quando ela não for
     mais necessária.
 
----------------------------------------------
-### Missão 5 | Revisar arquivos e consultar o histórico
-
-**Objetivo:** corrigir situações comuns sem perder trabalho importante.
-
-Resolva as situações propostas pelo instrutor:
-
-1.  Você preparou um arquivo para commit por engano. Retire-o da área de
-    preparação sem descartar as alterações locais.
-2.  Uma pasta temporária já rastreada não deve continuar sendo
-    versionada. Faça com que o Git deixe de rastreá-la, mantendo os
-    arquivos locais, e configure o `.gitignore` para evitar que volte a
-    ser adicionada. Lembre-se de que isso não apaga a pasta dos commits
-    antigos.
-3.  O instrutor solicita que você descubra em qual commit uma página foi
-    adicionada e consulte as alterações registradas naquele commit.
 
 ---------------------------------------------
-### Missão 6 | Interromper e retomar uma tarefa
+### Missão 5 | Interromper e retomar uma tarefa
 
 **Objetivo:** lidar com uma mudança de prioridade sem registrar um
 commit incompleto.
@@ -192,7 +176,7 @@ Tarefas:
     implementação.
 
 ---------------------------------------------
-### Missão 7 | Atualizar o trabalho com mudanças da equipe
+### Missão 6 | Atualizar o trabalho com mudanças da equipe
 
 **Objetivo:** incorporar alterações publicadas por outra pessoa.
 
@@ -212,7 +196,7 @@ Tarefas:
     `git pull`.
 
 ---------------------------------------------
-### Missão 8 | Resolver um conflito
+### Missão 7 | Resolver um conflito
 
 **Objetivo:** resolver alterações incompatíveis feitas em branches
 diferentes.
@@ -235,7 +219,7 @@ Se necessário, discuta com o instrutor quando seria apropriado cancelar
 uma tentativa de merge.
 
 ---------------------------------------------
-### Missão 9 | Corrigir ou desfazer alterações
+### Missão 8 | Corrigir ou desfazer alterações
 
 **Objetivo:** escolher uma forma adequada de corrigir erros conforme o
 estado do trabalho.
@@ -250,7 +234,7 @@ Resolva as duas situações, preparadas com orientação do instrutor:
     compartilhado.
 
 ---------------------------------------------
-### Missão 10 | Revisar e finalizar o projeto
+### Missão 09 | Revisar e finalizar o projeto
 
 **Objetivo:** verificar o site completo e preparar a entrega final.
 
