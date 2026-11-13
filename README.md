@@ -234,7 +234,21 @@ Resolva as duas situações, preparadas com orientação do instrutor:
     compartilhado.
 
 ---------------------------------------------
-### Missão 09 | Revisar e finalizar o projeto
+### Missão 09 | Publicar o site e validar o fluxo de entrega contínua (Deploy)
+
+**Objetivo:** conectar o repositório à Vercel, disponibilizar o projeto online e simular uma entrega em produção após ajustes pós-publicação.
+
+**Cenário:**
+Com todas as funcionalidades integradas e os cenários de controle de versão praticados, é hora de colocar o projeto no ar. Após a primeira publicação, você identifica uma melhoria visual ou de navegação necessária no ambiente real e precisa publicá-la de forma segura.
+
+**Tarefas:**
+- Acesse a plataforma **Vercel**, conecte sua conta do GitHub e importe o repositório `campeas-da-copa` configurado para publicar a partir da branch `main`.
+- Aguarde o primeiro deploy, acesse o link público gerado e teste a navegação em ambiente real (verifique caminhos relativos de CSS, imagens e links entre a `index.html` e as páginas em `pages/`).
+- Crie uma nova branch a partir da `main` atualizada chamada `feature/ajuste-pos-deploy` para realizar uma melhoria identificada no site publicado (por exemplo: adicionar o link da URL pública no `README.md`, ajustar o título da aba/favicon.
+- Registre a alteração em um commit claro, envie a branch para o GitHub e verifique se o deploy foi atualizado.
+
+---------------------------------------------
+### Missão 10 | Revisar e finalizar o projeto
 
 **Objetivo:** verificar o site completo e preparar a entrega final.
 
@@ -265,10 +279,6 @@ no próprio repositório. O registro deverá ser breve e conter:
 -   **Dificuldade ou dúvida pendente:** registre o que ainda precisa
     praticar.
 
-Não é necessário registrar cada comando individualmente nem tirar prints
-de todas as execuções. Utilize o histórico do GitHub como evidência do
-trabalho; capturas de tela só serão necessárias se forem solicitadas
-pelo instrutor para uma situação específica.
-
+Não é necessário registrar cada comando individualmente. Apenas registrar o seu entendimento aprendizado e duvidas superadas.
 O objetivo do registro é acompanhar a evolução ao longo do projeto.
 
