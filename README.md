@@ -264,8 +264,6 @@ no próprio repositório. O registro deverá ser breve e conter:
 -   **Aprendizado:** descreva o que compreendeu durante a atividade.
 -   **Dificuldade ou dúvida pendente:** registre o que ainda precisa
     praticar.
--   **Evidência:** inclua o link do commit, branch ou Pull Request
-    relacionado, quando aplicável.
 
 Não é necessário registrar cada comando individualmente nem tirar prints
 de todas as execuções. Utilize o histórico do GitHub como evidência do
